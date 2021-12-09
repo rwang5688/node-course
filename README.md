@@ -1,1 +1,1 @@
-# nodejs-developer-course
+# node-course
